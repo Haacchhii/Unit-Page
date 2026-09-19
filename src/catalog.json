@@ -1957,28 +1957,57 @@
       "photos": [
         {
           "file": "549067147-1742983383022941-6100145182484756160-n",
-          "caption": "Common area 1",
-          "alt": "Common area view 1 inside unit 1821B",
+          "caption": "Living, dining & kitchen",
+          "alt": "Living and dining area facing the kitchen and staircase inside unit 1821B",
           "folder": "common-area"
         },
         {
           "file": "549787440-1145734817440359-8144162407595838784-n",
-          "caption": "Common area 2",
-          "alt": "Common area view 2 inside unit 1821B",
+          "caption": "Living & dining area",
+          "alt": "Living and dining area beneath the staircase inside unit 1821B",
           "folder": "common-area"
         },
         {
           "file": "744593850-1915914662432737-9193907383157289283-n",
-          "caption": "Common area 3",
-          "alt": "Common area view 3 inside unit 1821B",
+          "caption": "Kitchen 1",
+          "alt": "Kitchen with wood cabinets and refrigerator inside unit 1821B",
           "folder": "common-area"
+        },
+        {
+          "file": "742077213-3133918176798323-249122588312144807-n",
+          "caption": "Kitchen 2",
+          "alt": "Kitchen counter, sink, cabinets and refrigerator inside unit 1821B",
+          "folder": "common-area"
+        },
+        {
+          "file": "742770721-1027034250083802-6194563102684912865-n",
+          "caption": "Bathroom",
+          "alt": "Bathroom with shower, sink and toilet inside unit 1821B",
+          "folder": "common-area"
+        },
+        {
+          "file": "713483184-1300514995059263-5091330919719513283-n",
+          "caption": "Bedspace 1",
+          "alt": "Bedspace with a two-level bunk bed inside unit 1821B",
+          "folder": "bedspace"
+        },
+        {
+          "file": "807888060-1597042358465259-6314472939363704517-n",
+          "caption": "Bedspace 2",
+          "alt": "Single bed by a window and air conditioner inside unit 1821B",
+          "folder": "bedspace"
         }
       ],
       "photoGroups": [
         {
           "label": "Common area",
           "start": 0,
-          "count": 3
+          "count": 5
+        },
+        {
+          "label": "Bedspace",
+          "start": 5,
+          "count": 2
         }
       ]
     },
